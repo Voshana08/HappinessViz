@@ -1,0 +1,17 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": { "text": "Correlation between life satisfaction and mental illness " },
+    "width":450,
+    "height":150,
+    "data": {
+    "url":
+    "mental_health.csv"
+    },
+    "mark": "bar",
+    "encoding": {
+    "x": { "field": "happiness", "type": "quantitative","title":"Happiness" },
+    "y": { "field": "Entity", "type": "nominal","title":"Entity" }
+    
+    }
+    }
+
