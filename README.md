@@ -1,5 +1,27 @@
-# To access the visualization use the following link : https://voshana8.github.io/Assignment2_DV/ 
-### This repo will include all the files needed to run my latest visualization regarding the world happiness index.
-### Technologies such as HTML,CSS,JS,JSON and Pandas were used to create this interactive webpage.
-### Its main goal is to give the user a clear understanding as to what factors affect a countries happiness index.
-### All data for this project have been sourced from open source data bases such as Kaggle and Google Scholar. 
+# World Happiness Index — Interactive Visualization
+
+An interactive webpage that explores the World Happiness Index across 
+different countries, examining the key factors that influence a 
+nation's happiness score.
+
+## Overview
+This visualization provides users with a clear and engaging way to 
+understand what drives happiness at a country level — from GDP and 
+social support to health and freedom.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- JSON
+- Python (Pandas)
+
+## Data Sources
+All data has been sourced from open source databases including 
+Kaggle and Google Scholar.
+
+## Features
+- Interactive exploration of happiness scores by country
+- Visual breakdown of contributing factors such as GDP, 
+  social support, health, and freedom
+- Country comparisons across multiple happiness indicators
